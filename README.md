@@ -1,5 +1,7 @@
 # SuperHeroFight
-This program allows superheroes to fight against one another. Below is a sample output:
+This program allows superheroes to fight against one another. This was a fun project that familiarized myself with pointers, dynamic memory allocation, and data structures in C++. Below is a sample output:
+
+
 Choose an option:
 1. Load Heroes
 2. Print Hero Roster
@@ -25,6 +27,8 @@ Choose an option:
 4. Quit
 -> 2
 The following 10 heroes are loaded...
+
+
 "---------------------------------------"
 
 Superman has the following powers...
