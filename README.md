@@ -5,7 +5,7 @@ Choose an option:
 2. Print Hero Roster
 3. Hero Fight!
 4. Quit
-> 1
+-> 1
 Enter the file to load: heroes.txt
 Unable to load file "heroes.txt"!
 Choose an option:
